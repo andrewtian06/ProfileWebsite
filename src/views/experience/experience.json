@@ -1,0 +1,37 @@
+[
+  {
+    "id": 86,
+    "title": "Astra International",
+    "subtitle": "Summer 2019",
+    "listTitle": "Data Scientist Intern",
+    "lists": [
+      "Built object detection models and algorithms for face detection, vehicle detection, and pedestrian counting.",
+      "Developed a model of a convolutional neural network using Keras and TensorFlow frameworks.",
+      "Enabled on-device, real-time recognition to improve the safety of vehicle operations for self-driving cars.",
+      "Partnered with the project manager to present and promote Astra’s new entrance door that used an Object Identification camera to the automotive industry at workshops and exhibitions"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Traveloka",
+    "subtitle": "Fall 2020",
+    "listTitle": "Mobile Developer Intern",
+    "lists": [
+      "Used ExpressJS to develop a REST API responsible for user authentication and CRUD operations to a MongoDB instance",
+      "Implemented data models, and schema validation using Mongoose",
+      "Implemented a responsive front-end with React to efficiently reuse UI components"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "NitipDonk",
+    "subtitle": "Summer 2021",
+    "listTitle": "Software Engineer Intern",
+    "lists": [
+      "Styled, developed, and tested React components in JavaScript",
+      "Customized React Hooks to encapsulate Ajax API calls and designed consistent and reusable JavaScript interfaces which reduced 10% lines of code after refactoring",
+      "Configured AWS Amplify for authentication and hosting, AWS Lambda for development of GraphQL APIs using Python, and MongoDB for permanent storages",
+      "Solved UI’s unresponsiveness and CSS animation errors"
+    ]
+  }
+]

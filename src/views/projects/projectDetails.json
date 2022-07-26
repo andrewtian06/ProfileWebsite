@@ -1,0 +1,33 @@
+[
+  {
+    "id": 5676,
+    "thumbnail": "/images/Rectangle 1.jpg",
+    "title": "Anteater Pathway",
+    "lists": [
+      "Redesigning the search bar, the deletion of academic years, and adjusting the course  UI with JSX, CSS, HTML, and React",
+      "Integrated the front end with backend API using Axios to retrieve data from the database",
+      "Create a web scrapper to retrieve courses and offer history from UCI Catalogue and  Webreg schedule of classes",
+      "Create HTTP request using FastAPI to get the data from MongoDB database"
+    ]
+  },
+  {
+    "id": 343,
+    "thumbnail": "/images/Rectangle 2 (1).svg",
+    "title": "Search Engine",
+    "lists": [
+      "Used NLTK and BeautifulSoup to parse and tokenize 40,000 files containing HTML content to create inverted index",
+      "Implemented sorting of most relevant websites using metrics such as TF-IDF and cosine similarity",
+      "Created interactive user interface using Python Tkinter to display top 20 most relevant URLs based on user’s query"
+    ]
+  },
+  {
+    "id": 656,
+    "thumbnail": "/images/Rectangle 3 (1).svg",
+    "title": "Minesweeper AI",
+    "lists": [
+      "Create a Minesweeper AI using CSP to solve minesweeper easy, medium, and expert boards by implementing backtracking search to find all valid arrangements.",
+      "Create a probability guess algorithm to make a best guess for a tile that have equal probability containing a mine",
+      "Achieve 80% completion for easy (8x8, 10 mines), 50% completion for medium (16x16, 40 mines), and 15% completion for expert (16x30, 99 mines) board"
+    ]
+  }
+]

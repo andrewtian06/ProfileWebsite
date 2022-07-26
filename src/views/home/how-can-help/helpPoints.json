@@ -1,0 +1,20 @@
+[
+  {
+    "id": 33434,
+    "icon": "/images/database 1.svg",
+    "title": "Database Management",
+    "describe": "Ultrices dictumst faucibus enim vitae tellus."
+  },
+  {
+    "id": 6678,
+    "icon": "/images/programming 1.svg",
+    "title": "App Development",
+    "describe": "Parturient rhoncus gravida augue viverra."
+  },
+  {
+    "id": 9675,
+    "icon": "/images/software-engineer 1.svg",
+    "title": "Software Engineering",
+    "describe": "Senectus fermentum ac faucibus rhoncus.."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 4654,
+    "title": "Software Engineering",
+    "lists": [
+      "Data Science",
+      "Algorithm Design",
+      "Quantitative Analysis",
+      "Data Mining/Cleansing/Modeling",
+      "Full stack Development (Frontend & Backend)",
+      "Web Applications",
+      "Software Design & Development",
+      "Coding",
+      "Data Structures"
+    ]
+  },
+  {
+    "id": 75675,
+    "title": "Softwares",
+    "smaller": true,
+    "lists": [
+      "C++",
+      "FastAPI",
+      "Java",
+      "Android Studio",
+      "Lambda",
+      "JavaScript",
+      "GraphQL",
+      "HTML",
+      "Python",
+      "CSS",
+      "AWS Amplify",
+      "PHP",
+      "Axios",
+      "MongoDB",
+      "React Native",
+      "NLTK",
+      "Node.js",
+      "Docker"
+    ]
+  },
+  {
+    "id": 80909,
+    "title": "Leadership",
+    "lists": [
+      "Strategic Planning & Execution",
+      "Project Management",
+      "Prioritization",
+      "Process Improvement",
+      "Collaboration"
+    ]
+  },
+  {
+    "id": 78978,
+    "title": "Languages",
+    "lists": ["English", "Indonesian"]
+  }
+]
